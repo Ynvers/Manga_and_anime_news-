@@ -1,0 +1,13 @@
+# .gitignore
+
+# Environment files
+.env
+
+# Virtual environment
+venv
+
+# Python cache files
+__pycache__/
+
+# Test files
+test.py
